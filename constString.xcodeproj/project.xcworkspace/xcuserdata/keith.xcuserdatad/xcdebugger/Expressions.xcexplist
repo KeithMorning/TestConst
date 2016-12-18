@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "TestString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KSModelA logAddress]:KSModelA.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "TestConstA">
+            </PersistentString>
+            <PersistentString
+               value = "TestStaticContstA">
+            </PersistentString>
+            <PersistentString
+               value = "TestString">
+            </PersistentString>
+            <PersistentString
+               value = "TestConstNotificationName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidLoad]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSNotFound">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController didReceiveMemoryWarning]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidAppear:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[KSModelB logAddress]:KSModelB.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
